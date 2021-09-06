@@ -1,6 +1,6 @@
 ### SignIn-SignUp UI Template
 
-Just a basic SignIn SignUp page with a slider
+Just a basic SignIn SignUp page with a slider.
 
 You can clone or download this repo to experience it's interface.
 
